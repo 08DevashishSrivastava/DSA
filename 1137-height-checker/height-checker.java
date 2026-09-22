@@ -16,3 +16,16 @@ class Solution {
       return count;
     }
 }
+
+
+// int expected = height.clone();
+// Array.sort(expected);
+// int count  = 0 ;
+//  for(int  i = 0 ; i <expected.length ; i++){
+//     if(expected[i] != height[i]){
+//         count++;
+//     }
+//  }
+//  return count;
+//  }
+//  }
